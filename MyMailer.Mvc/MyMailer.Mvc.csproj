@@ -134,7 +134,6 @@
     </Compile>
     <Compile Include="Mailer\IKidMailer.cs" />
     <Compile Include="Mailer\KidMailer.cs" />
-    <Compile Include="Mailer\MyMailer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
