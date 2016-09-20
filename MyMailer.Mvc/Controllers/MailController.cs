@@ -4,7 +4,6 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using MyMailer.Mvc.Mailer;
-using mailer = MyMailer.Mvc.Mailer.MyMailer;
 
 namespace MyMailer.Mvc.Controllers
 {
